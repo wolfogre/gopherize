@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/wolfogre/gopher/internal/app/gopherize"
+	"github.com/wolfogre/gopher/internal/pkg/gopherize"
 )
 
 var (
